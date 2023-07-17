@@ -12,19 +12,20 @@
 <img src="./public/images/html.png" alt="html">
 
 <h2> Punto 3: CSS</h2>
-<img src="./public/images/Taller-punto-1-3-index.png" alt="CSS">
+<img src="./public/images/css.png" alt="CSS">
 
 <h2> Punto 4: TÍTULOS</h2>
-<img src="./public/images/Taller-punto-4.png" alt="Títulos">
+<img src="./public/images/titulos.png" alt="Títulos">
 
 <h2> Punto 5: ESTILOS DE TEXTO</h2>
-<img src="./public/images/Taller-punto-5.png" alt="Estilos de texto">
+<img src="./public/images/estilos.png" alt="Estilos de texto">
 
 <h2> Punto 6: ENLACES</h2>
-<img src="./public/images/Taller-punto-6.png" alt="Enlaces">
+<img src="./public/images/enlaces.png" alt="Enlaces">
 
 <h2> Punto 7-8: NAVEGACIÓN</h2>
-<img src="./public/images/Taller-punto-7-8.png" alt="Navegación">
+<img src="./public/images/navegacion.png" alt="Navegación">
 
 <h2> Punto 9: TABLAS</h2>
-<img src="./public/images/Taller-punto-9.png" alt="Tablas">
+<img src="./public/images/tabla.png" alt="Tablas">
+
